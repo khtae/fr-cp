@@ -5,13 +5,13 @@ st.set_page_config(
     page_icon="👋",
 )
 
-st.write("# Welcome to Diet Recommendation System! 👋")
+st.write("# Welcome to our Food Redommendation System")
 
 st.sidebar.success("Select a recommendation app.")
 
 st.markdown(
     """
-    A diet recommendation web application using content-based approach with Scikit-Learn, FastAPI and Streamlit.
-    You can find more details and the whole project on my [repo](https://github.com/zakaria-narjis/Diet-Recommendation-System).
+   Our system offers personalized suggestions tailored to your dietary preferences and health objectives. 
+   It provides detailed nutritional information for each recommended food item, enabling you to make informed decisions about your diet.
     """
 )
