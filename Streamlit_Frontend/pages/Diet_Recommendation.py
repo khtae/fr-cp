@@ -5,7 +5,7 @@ from random import uniform as rnd
 from ImageFinder.ImageFinder import get_images_links as find_image
 from streamlit_echarts import st_echarts
 
-st.set_page_config(page_title="Automatic Diet Recommendation", page_icon="💪",layout="wide")
+st.set_page_config(page_title="Automatic Diet Recommendation",layout="wide")
 
 
 
