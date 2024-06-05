@@ -13,5 +13,9 @@ st.markdown(
     """
    Our system offers personalized suggestions tailored to your dietary preferences and health objectives. 
    It provides detailed nutritional information for each recommended food item, enabling you to make informed decisions about your diet.
+
+   We can live a healthy life with a balanced diet based on our height, weight, and age. Your diet can help you achieve and 
+   maintain a healthy weight, lower your chance of developing chronic diseases (including cancer and heart disease), 
+   and improve your general health when combined with physical activity. 
     """
 )
