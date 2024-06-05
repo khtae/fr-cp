@@ -5,8 +5,7 @@ st.set_page_config(
     page_icon="👋",
 )
 
-st.write("# Welcome to our 
-            Food Redommendation System")
+st.write("# Welcome to our Food Redommendation System")
 
 st.sidebar.success("Select a recommendation app.")
 
